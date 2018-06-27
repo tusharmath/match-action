@@ -1,5 +1,6 @@
 {
   "version": "0.0.0-development",
+  "name": "match-action",
   "main": "index.js",
   "description": "Switch case for actions",
   "scripts": {
@@ -27,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tusharmath/undefined.git"
+    "url": "https://github.com/tusharmath/match-action.git"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.3",
