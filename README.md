@@ -1,4 +1,4 @@
-# Match Action
+# Match Action [![Build Status](https://travis-ci.com/tusharmath/match-action.svg?branch=master)](https://travis-ci.com/tusharmath/match-action)
 
 A switch case for actions.
 
