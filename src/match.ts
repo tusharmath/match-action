@@ -1,4 +1,5 @@
 import {CurriedFunction2, curry2} from 'ts-curry'
+import {Action} from 'action-type'
 export type MatchActionSpec = {
   [key: string]: {(value: any): any}
 }
